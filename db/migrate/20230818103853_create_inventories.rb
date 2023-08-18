@@ -7,6 +7,9 @@ class CreateInventories < ActiveRecord::Migration[7.0]
       t.date :warranty
       t.integer :quantity
       t.integer :category_id
+      t.integer :current_status_id
+      t.integer :current_place_id
+      t.integer :current_area_id
 
       t.timestamps
     end

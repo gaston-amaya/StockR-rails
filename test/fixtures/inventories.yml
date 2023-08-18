@@ -7,6 +7,9 @@ one:
   warranty: 2023-08-18
   quantity: 1
   category_id: 1
+  current_status_id: 1
+  current_place_id: 1
+  current_area_id: 1
 
 two:
   brand: MyString
@@ -15,3 +18,6 @@ two:
   warranty: 2023-08-18
   quantity: 1
   category_id: 1
+  current_status_id: 1
+  current_place_id: 1
+  current_area_id: 1
