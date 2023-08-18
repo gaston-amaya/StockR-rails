@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  model_name: MyString
+  serial_number: MyString
+  motherboard: MyString
+  processor: MyString
+  ram: MyString
+  disk: MyString
+  power_supply: MyString
+  warranty: 2023-08-18
+  current_place_id: 1
+  current_area_id: 1
+  current_status_id: 1
+
+two:
+  brand: MyString
+  model_name: MyString
+  serial_number: MyString
+  motherboard: MyString
+  processor: MyString
+  ram: MyString
+  disk: MyString
+  power_supply: MyString
+  warranty: 2023-08-18
+  current_place_id: 1
+  current_area_id: 1
+  current_status_id: 1
