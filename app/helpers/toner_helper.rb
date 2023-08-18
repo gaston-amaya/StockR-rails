@@ -1,0 +1,2 @@
+module TonerHelper
+end

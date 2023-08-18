@@ -1,0 +1,2 @@
+class TonerController < ApplicationController
+end
